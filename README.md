@@ -63,19 +63,19 @@ DFOS/
 
 ##  How to Run
 
-### 1️⃣ Start the Server
+### 1) Start the Server
 
 ```bash
 python3 server.py
 ```
 
-###  Run a Client (in another terminal)
+###  2) Run a Client (in another terminal)
 
 ```bash
 python3 client.py
 ```
 
-###  Login Credentials
+###  3) Login Credentials
 
 Update `id_passwd.txt` with:
 
